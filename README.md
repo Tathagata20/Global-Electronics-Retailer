@@ -23,9 +23,9 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 - Is there a difference in average order value (AOV) for online vs. in-store sales?
 
 ## TechStack
-Power Query Editor
-Power BI Data Model
-Dax Measures
+- Power Query Editor
+- Power BI Data Model
+- Dax Measures
 
 ## Business Impacts
 - The company sells electronic goods, mainly computers, cellphones, home appliances, and more.
