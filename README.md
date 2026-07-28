@@ -35,4 +35,5 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 - There is a significant difference of $1,146.845 in the AOV of online orders and in-store orders, where in-store orders contributes 79.42% and online ones 20.58%.
 
 
-<img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/00524989-6723-4db2-88b6-9d20914b4a59" />
+<img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/7f877224-6da6-427c-b973-908fb03d0ce2" />
+
