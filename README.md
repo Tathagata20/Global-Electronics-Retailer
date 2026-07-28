@@ -33,3 +33,6 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 - The sales slightly increase from January to February, after that it decreases till April, and then it again increases till December, being the peak month. However, in 2020, the trend changed with February being the peak sales month.
 - The average delivery days is 4.53 days throughout the years. However, it is reduced by 47.83% from the highest(7.17 days) in 2016 to the lowest(3.74 days) in 2021.
 - There is a significant difference of $1,146.845 in the AOV of online orders and in-store orders, where in-store orders contributes 79.42% and online ones 20.58%.
+
+
+<img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/00524989-6723-4db2-88b6-9d20914b4a59" />
