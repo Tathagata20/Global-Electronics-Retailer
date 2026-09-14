@@ -26,6 +26,7 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 - Power Query Editor
 - Power BI Data Model
 - Dax Measures
+- Claude
 
 ## Business Impacts
 - The company sells electronic goods, mainly computers, cellphones, home appliances, and more.
@@ -36,4 +37,7 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 
 
 <img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/7f877224-6da6-427c-b973-908fb03d0ce2" />
+
+## Report
+https://github.com/Tathagata20/Global-Electronics-Retailer/blob/main/Global_Electronics_Sales_Analysis_Report.docx
 
