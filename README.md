@@ -29,11 +29,11 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 - Claude
 
 ## Business Impacts
-- The company sells electronic goods, mainly computers, cellphones, home appliances, and more.
-- The customers are located in different countries, like the United States, Canada, the United Kingdom, France, Germany, Italy, and Australia, with the United States contributing 48.01%.
-- The sales slightly increase from January to February, after that it decreases till April, and then it again increases till December, being the peak month. However, in 2020, the trend changed with February being the peak sales month.
-- The average delivery days is 4.53 days throughout the years. However, it is reduced by 47.83% from the highest(7.17 days) in 2016 to the lowest(3.74 days) in 2021.
-- There is a significant difference of $1,146.845 in the AOV of online orders and in-store orders, where in-store orders contributes 79.42% and online ones 20.58%.
+- January and February 2020 actually outperformed the same months in 2019. Revenue then fell 60–75% starting in March 2020 and never recovered for the rest of the year.
+- Average order value was essentially unchanged: $1,856 (2019) vs. $1,878 (2020) in-store, and $1,810 vs. $1,792 online. Customers who purchased spent about the same as before. 
+- Every product category declined between 44% and 59% — Audio was hit hardest, Cell phones least. Every major market declined between 44% and 62%, except France, which held up notably better at –26%. 
+- Most notably, online revenue fell 47% — almost as much as offline's 49% decline. 
+- The March–April trough is normal for this business, but in 2020 revenue never recovered to seasonal norms afterward — May through December 2020 all ran 40–85% below the equivalent 2019 months, well outside the usual seasonal rebound pattern.
 
 
 <img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/7f877224-6da6-427c-b973-908fb03d0ce2" />
