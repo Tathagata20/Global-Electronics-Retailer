@@ -1,4 +1,4 @@
-# Global-Electronics-Retailer
+# Global-Electronics-Retailer-Report
 Sales Report on Global Electronics Retailer
 
 ## Situation
